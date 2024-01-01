@@ -1,0 +1,213 @@
+2023-12-31 20:08:25:825 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:08:54:854 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:09:55:955 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:11:55:1155 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:11:55:1155 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:13:24:1324 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-12-31 20:13:24:1324 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2023-12-31 20:13:24:1324 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:13:36:1336 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:13:36:1336 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:14:21:1421 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:14:21:1421 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:40:15:4015 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:40:15:4015 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:41:50:4150 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:41:50:4150 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:43:09:439 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:43:09:439 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:43:33:4333 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:43:33:4333 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:43:49:4349 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:43:49:4349 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:44:49:4449 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2023-12-31 20:44:49:4449 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2023-12-31 20:44:57:4457 - [35mhttp[39m: [35mGET /api//teste/ 200 12 - 2.027 ms[39m
+[35m[39m
+2024-01-01 12:07:08:78 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 12:07:08:78 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 12:24:30:2430 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 12:24:30:2430 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 12:24:40:2440 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 12:24:40:2440 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 12:27:30:2730 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 12:27:30:2730 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 12:34:08:348 - [35mhttp[39m: [35mPOST /api/game 200 14 - 2.046 ms[39m
+[35m[39m
+2024-01-01 12:57:32:5732 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 12:57:32:5732 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 12:58:16:5816 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 12:58:16:5816 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 12:59:32:5932 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 12:59:32:5932 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:00:16:016 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:00:16:016 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:08:19:819 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:08:19:819 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:08:32:832 - [35mhttp[39m: [35mPOST /api/game 201 229 - 43.292 ms[39m
+[35m[39m
+2024-01-01 13:25:51:2551 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:25:51:2551 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:27:24:2724 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:27:24:2724 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:28:40:2840 - [35mhttp[39m: [35mPOST /api/game 201 224 - 55.003 ms[39m
+[35m[39m
+2024-01-01 13:41:42:4142 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:41:42:4142 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:42:12:4212 - [35mhttp[39m: [35mPOST /api/game 422 50 - 4.430 ms[39m
+[35m[39m
+2024-01-01 13:43:56:4356 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:43:56:4356 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:44:48:4448 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:44:48:4448 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:44:51:4451 - [35mhttp[39m: [35mPOST /api/game 422 76 - 5.024 ms[39m
+[35m[39m
+2024-01-01 13:46:52:4652 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:46:52:4652 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:47:59:4759 - [35mhttp[39m: [35mPOST /api/game 422 76 - 4.962 ms[39m
+[35m[39m
+2024-01-01 13:48:08:488 - [35mhttp[39m: [35mPOST /api/game 201 208 - 119.902 ms[39m
+[35m[39m
+2024-01-01 13:49:00:490 - [35mhttp[39m: [35mPOST /api/game 422 59 - 0.923 ms[39m
+[35m[39m
+2024-01-01 13:52:24:5224 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:52:24:5224 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:52:48:5248 - [35mhttp[39m: [35mPOST /api/game 422 60 - 5.527 ms[39m
+[35m[39m
+2024-01-01 13:54:36:5436 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 13:54:36:5436 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 13:54:50:5450 - [35mhttp[39m: [35mPOST /api/game 422 107 - 5.789 ms[39m
+[35m[39m
+2024-01-01 14:05:53:553 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:05:53:553 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:06:02:62 - [35mhttp[39m: [35mPOST /api/game 422 107 - 5.175 ms[39m
+[35m[39m
+2024-01-01 14:06:10:610 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:06:10:610 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:06:13:613 - [35mhttp[39m: [35mPOST /api/game 422 107 - 5.257 ms[39m
+[35m[39m
+2024-01-01 14:06:34:634 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:06:34:634 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:17:07:177 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:17:07:177 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:17:41:1741 - [35mhttp[39m: [35mPOST /api/game 422 173 - 6.821 ms[39m
+[35m[39m
+2024-01-01 14:18:01:181 - [35mhttp[39m: [35mPOST /api/game 422 125 - 1.619 ms[39m
+[35m[39m
+2024-01-01 14:19:39:1939 - [35mhttp[39m: [35mPOST /api/game 422 59 - 2.057 ms[39m
+[35m[39m
+2024-01-01 14:21:56:2156 - [35mhttp[39m: [35mPOST /api/game 422 59 - 1.042 ms[39m
+[35m[39m
+2024-01-01 14:23:21:2321 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:23:21:2321 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:23:31:2331 - [35mhttp[39m: [35mPOST /api/game 201 220 - 99.427 ms[39m
+[35m[39m
+2024-01-01 14:25:33:2533 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:25:33:2533 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:25:40:2540 - [35mhttp[39m: [35mPOST /api/game 201 248 - 171.647 ms[39m
+[35m[39m
+2024-01-01 14:27:12:2712 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:27:12:2712 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:27:57:2757 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:27:57:2757 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:32:46:3246 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:32:46:3246 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 14:34:58:3458 - [35mhttp[39m: [35mPOST /api/game 201 440 - 50.561 ms[39m
+[35m[39m
+2024-01-01 14:58:53:5853 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 14:58:53:5853 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:01:55:155 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:01:55:155 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:02:18:218 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:02:18:218 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:03:44:344 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:03:44:344 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:06:15:615 - [31merror[39m: [31mErro no sistema: Games_1.GameModel.findByID is not a function[39m
+2024-01-01 15:06:31:631 - [35mhttp[39m: [35mGET /api/game/6592f7c2fbb62d955fe83570 - - - - ms[39m
+[35m[39m
+2024-01-01 15:06:56:656 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:06:56:656 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:07:02:72 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:07:02:72 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:07:47:747 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:07:47:747 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:08:02:82 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:08:02:82 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:08:33:833 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:08:33:833 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:11:55:1155 - [35mhttp[39m: [35mGET /api/game/6592f7c2fbb62d955fe83570 - - - - ms[39m
+[35m[39m
+2024-01-01 15:12:06:126 - [35mhttp[39m: [35mGET /api/game/6592f7c2fbb62d955fe83570 - - - - ms[39m
+[35m[39m
+2024-01-01 15:12:48:1248 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:12:48:1248 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:12:52:1252 - [35mhttp[39m: [35mGET /api/game/6592f7c2fbb62d955fe83570 201 440 - 40.736 ms[39m
+[35m[39m
+2024-01-01 15:13:04:134 - [35mhttp[39m: [35mGET /api/game/6592f7c2fbb62d955fe83571 404 27 - 66.236 ms[39m
+[35m[39m
+2024-01-01 15:13:13:1313 - [35mhttp[39m: [35mGET /api/game/6592f7c2fbb62d955fe83570 201 440 - 67.620 ms[39m
+[35m[39m
+2024-01-01 15:21:13:2113 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:21:13:2113 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:22:07:227 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:22:07:227 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:23:45:2345 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "allGames" (type string) at path "_id" for model "Game"[39m
+2024-01-01 15:24:16:2416 - [35mhttp[39m: [35mGET /api/game/allGames - - - - ms[39m
+[35m[39m
+2024-01-01 15:25:30:2530 - [35mhttp[39m: [35mGET /api/game 404 147 - 1.623 ms[39m
+[35m[39m
+2024-01-01 15:25:38:2538 - [35mhttp[39m: [35mGET /api//game 404 148 - 1.858 ms[39m
+[35m[39m
+2024-01-01 15:25:58:2558 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:25:58:2558 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:26:04:264 - [35mhttp[39m: [35mGET /api//game 201 1576 - 40.340 ms[39m
+[35m[39m
+2024-01-01 15:28:08:288 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:28:08:288 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:30:44:3044 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:30:44:3044 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:31:23:3123 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:31:23:3123 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:32:07:327 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:32:07:327 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:35:55:3555 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:35:55:3555 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:37:37:3737 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6592ecc82fc16aa3487526c" (type string) at path "_id" for model "Game"[39m
+2024-01-01 15:38:14:3814 - [35mhttp[39m: [35mDELETE /api/game/6592ecc82fc16aa3487526c - - - - ms[39m
+[35m[39m
+2024-01-01 15:38:17:3817 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6592ecc82fc16aa3487526c" (type string) at path "_id" for model "Game"[39m
+2024-01-01 15:38:20:3820 - [35mhttp[39m: [35mDELETE /api/game/6592ecc82fc16aa3487526c - - - - ms[39m
+[35m[39m
+2024-01-01 15:38:24:3824 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:38:24:3824 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:38:31:3831 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 15:38:31:3831 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 15:38:34:3834 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6592ecc82fc16aa3487526c" (type string) at path "_id" for model "Game"[39m
+2024-01-01 15:39:35:3935 - [35mhttp[39m: [35mDELETE /api/game/6592ecc82fc16aa3487526c - - - - ms[39m
+[35m[39m
+2024-01-01 15:45:26:4526 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6592ecc82fc16aa3487526c" (type string) at path "_id" for model "Game"[39m
+2024-01-01 15:45:33:4533 - [35mhttp[39m: [35mDELETE /api/game/6592ecc82fc16aa3487526c - - - - ms[39m
+[35m[39m
+2024-01-01 15:45:43:4543 - [35mhttp[39m: [35mDELETE /api/game/6592ecc82fc16aa3487526c1 200 39 - 1142.073 ms[39m
+[35m[39m
+2024-01-01 16:33:28:3328 - [35mhttp[39m: [35mDELETE /api/game/6592ecc82fc16aa3487526c1 404 26 - 26.269 ms[39m
+[35m[39m
+2024-01-01 16:35:14:3514 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 16:35:14:3514 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 16:35:58:3558 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 16:35:58:3558 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 16:37:31:3731 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 16:37:31:3731 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 16:38:42:3842 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 16:38:42:3842 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 16:41:31:4131 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 16:41:31:4131 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 16:42:51:4251 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-01-01 16:42:51:4251 - [32minfo[39m: [32mA aplicação está funcionando na porta 3000[39m
+2024-01-01 16:45:35:4535 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6592f7c2fbb62d955fe8357" (type string) at path "_id" for model "Game"[39m
+2024-01-01 16:45:49:4549 - [35mhttp[39m: [35mPATCH /api/game/6592f7c2fbb62d955fe8357 - - - - ms[39m
+[35m[39m
+2024-01-01 16:46:12:4612 - [35mhttp[39m: [35mPATCH /api/game/6592f7c2fbb62d955fe83570 201 440 - 65.731 ms[39m
+[35m[39m
+2024-01-01 16:46:25:4625 - [35mhttp[39m: [35mPATCH /api/game/6592f7c2fbb62d955fe83570 201 442 - 56.527 ms[39m
+[35m[39m
